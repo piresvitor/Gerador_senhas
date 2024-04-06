@@ -1,0 +1,32 @@
+body{
+    background-color: #3b3b3b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#conteiner{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+#textarea{
+    width: 400px;
+    height: 200px;
+    font-size: 18px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+}
+p{
+    font-size: 30px;
+}
